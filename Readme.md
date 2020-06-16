@@ -1,6 +1,6 @@
 # Project/app
 
-This folder contains the javascript files for the application.
+This folder contains the javascript files for the application. (App folder contains modules)
 
 # Project/resources
 
